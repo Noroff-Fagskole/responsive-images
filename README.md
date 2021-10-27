@@ -99,7 +99,7 @@ We can however use two new attributes — srcset and sizes — to provide severa
 ### Cons
 
 - more complex than media queries way, but better.
-- no background image property, so limited styling oportunity
+- no background image property, so limited styling opportunity
 
 
 ## Picture and Source tag 🦄
